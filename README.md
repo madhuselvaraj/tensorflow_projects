@@ -1,1 +1,1 @@
-# tensorflow_projects
+projects from my coursera course 'Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning' were uploaded. Check 'https://www.coursera.org/learn/introduction-tensorflow/home/welcome' for further references.
